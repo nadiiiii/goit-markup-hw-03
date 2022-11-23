@@ -21,6 +21,18 @@ body {
     margin: 0 auto;
     padding: 24px 215px;
 }
+.section {
+    padding: 94px 0;
+}
+.section-adv {
+    padding-top: 94px;
+}
+.start {
+    padding: 200px 0;
+}
+.start-title {
+    margin-bottom: 30px;
+}
 .link {
     text-decoration: none;
 }
